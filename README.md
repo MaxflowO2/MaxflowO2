@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaxflowO2
-- 👀 I’m interested in ... Coding Go (Go lang)
-- 🌱 I’m currently learning ... Full Stack Development
+- 👀 I’m interested in ... Cross chain and AMM coding.
 - 💞️ I’m looking to collaborate on ... Blockchain
 - 📫 How to reach me ... Here
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxflowO2
-- 👀 I’m interested in ... Cross chain and AMM coding.
-- 💞️ I’m looking to collaborate on ... Blockchain
+- 👀 I’m interested in ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Here
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxflowO2
-- 👀 I’m interested in ... 
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in ... turning GitHub into a dating app
+- 💞️ I’m looking to collaborate on ... turning GitHub into a dating app
 - 📫 How to reach me ... Here
 
 <!---
